@@ -1,1 +1,1 @@
-# seti
+# goit-markup-hw-1
